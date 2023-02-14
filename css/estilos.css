@@ -2,3 +2,12 @@ body{
     text-align: center;
     font-family: monospace;
 }
+
+#cabecera{
+    background-color: #000;
+    color: antiquewhite;
+    padding: 40px;
+    margin: 50px;
+    border-radius: 25px;
+
+}
