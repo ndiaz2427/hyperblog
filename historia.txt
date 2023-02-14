@@ -6,4 +6,8 @@ y se volvio un amejor persona
 
 le encanta jugar baloncesto
 
+<<<<<<< HEAD
 hoy hablaremos de la vida de y sus proyectos laborales nicolas
+=======
+mañana voy a verme con gabriela y ya no va a estudiar
+>>>>>>> cabecera
