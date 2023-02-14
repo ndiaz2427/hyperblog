@@ -10,3 +10,11 @@ body{
     margin: 50px;
     border-radius: 25px;
 }
+
+#texto1{
+    background-color: antiquewhite;
+    color: black;
+    margin: 100px;
+    padding: 50px;
+    font-size: 30px;
+}
